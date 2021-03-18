@@ -1,0 +1,6 @@
+.idea/
+__pycache__
+result.json
+kmean.py
+trainer_main.py
+extract_table/
